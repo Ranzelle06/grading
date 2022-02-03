@@ -12,10 +12,6 @@
             $('#class').val('Grade 10');
           }else if($('#yr').val() == '4'){
             $('#class').val('Grade 11');
-          }else if($('#yr').val() == '5'){
-            $('#class').val('Grade 12');
-          }else if($('#yr').val() == '6'){
-            $('#class').val('Grade 13');
           };
     
 });
