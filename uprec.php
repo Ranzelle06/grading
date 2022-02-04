@@ -30,7 +30,7 @@ $att_d = $_POST['att_d'];
 $syi_id = $_POST['syi'];
 $tg_id = $_POST['tg_id'];
 $stats = $_POST['stats'];
-$user= $_SESSION["ID"];
+$user= $_SESSION["id"];
 
 if(isset($_POST['sub']	)){
 $sub = $_POST['sub'];
