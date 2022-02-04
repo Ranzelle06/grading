@@ -12,7 +12,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Student Grading System</title>
+    <title>Student Academic Performance Tracking and Monitoring System</title>
 
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
